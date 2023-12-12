@@ -1,4 +1,4 @@
-# tcpy-honeypot
+# TCPyPot
 
 A TCP honeypot written in python
 
